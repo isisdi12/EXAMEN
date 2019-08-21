@@ -1,0 +1,59 @@
+body{
+    background: #000000;
+}
+.header{
+    background: #169fee;
+    height: 75px;
+    
+
+}
+
+.header ul li{
+   margin: 35px;
+   letter-spacing: 10px;
+   display: inline-block;
+}
+
+.inicio{
+    background: #6e6e6e;
+    height: 80px;
+    box-align: flex;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    
+}
+.cuerpo{
+    background: #6e6e6e;
+    height: 1000px;
+    width: 1200px ; 
+
+}
+
+.pruebas img{
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    margin: 25px;
+}
+
+.pruebas{
+    display: inline-block;
+}
+
+.lado{
+background: #6e6e6e; 
+margin-left: 1250px;
+margin-right: 0px;
+padding: 10px;
+float: right;
+}
+
+footer{
+    background: #169fee;
+    height: 75px;
+}
+
+.muestra{
+    display: inline-block;
+
+}
